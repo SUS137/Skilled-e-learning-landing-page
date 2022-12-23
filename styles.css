@@ -474,8 +474,8 @@ margin-bottom: 1rem;
 
   
 
-gap:3rem;
-
+gap:2rem;
+row-gap: 4rem;
 
 
 }
@@ -488,6 +488,8 @@ gap:3rem;
 font-weight: 800;
 font-size: 24px;
 line-height: 28px;
+margin-top: 2rem;
+margin-bottom: 2rem;
 
 
 }
@@ -495,7 +497,10 @@ line-height: 28px;
 .article-paragraph{
 
     font-size: 18px;
-    line-height: 28px;}
+    line-height: 28px;
+margin-bottom: 2rem;
+
+}
  
 
 .article-link{
@@ -529,7 +534,7 @@ line-height: 28px;
 
     background-color: var(--colorNegro);
     height: 120px;
-    margin-top: 15rem;
+    margin-top: 10rem;
 }
 
 }
